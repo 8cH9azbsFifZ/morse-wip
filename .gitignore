@@ -1,1 +1,9 @@
 .Dockerfile.swp
+*.o
+stamp-h1
+src/.deps
+config.status
+config.log
+src/bmorse
+src/Makefile
+autoscan.log

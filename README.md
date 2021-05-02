@@ -1,7 +1,14 @@
 # Docker stuff
 
-make -f Makefile.docker build
+## Building
 
+### OSX
+brew install fftw
+./configure
+make
+
+### Docker
+make -f Makefile.docker build
 make -f Makefile.docker run
 
 ## History
