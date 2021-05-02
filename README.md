@@ -4,6 +4,9 @@ make -f Makefile.docker build
 
 make -f Makefile.docker run
 
+## History
+- v0.2 - docker build with X
+- v0.1 - as forked initially
 
 
 # Original Readme
